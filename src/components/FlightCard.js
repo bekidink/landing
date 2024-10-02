@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import FlightPath from './FlightPath';
 import FlightIcon from '../assets/flight.png'
 const FlightCard = () => {
   return (
